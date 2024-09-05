@@ -11,3 +11,8 @@ https://abobakar.kesug.com/courses/react/setting-up-environment/
       npm install
 
 - Above command will install all neccessary packages and create node_modules folder in your downloaded code.
+
+- Now run below command to run this app
+
+      npm run dev
+
